@@ -13,7 +13,6 @@ body{
 main{
     display: flex;
     background-color: rgba(30,30,40,255);
-    height: 130vh;
     width: 100vw;
     flex-direction: column;
     align-items: center;
